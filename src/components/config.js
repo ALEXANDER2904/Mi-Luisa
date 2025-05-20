@@ -147,6 +147,14 @@ const config = {
     "¿Cuanto tiempo hemos estado juntos?",
     "¿cuánto tiempo hemos estado juntos?",
     "¿cuanto tiempo hemos estado juntos?",
+
+    "Cuánto tiempo hemos estado juntos ", 
+    "cuanto tiempo hemos estado juntos ", 
+    "cuánto tiempo hemos estado juntos ",
+    "¿Cuánto tiempo hemos estado juntos? ",
+    "¿Cuanto tiempo hemos estado juntos? ",
+    "¿cuánto tiempo hemos estado juntos? ",
+    "¿cuanto tiempo hemos estado juntos? ",
     // Another example of a correct search query
   ],
 };
