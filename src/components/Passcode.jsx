@@ -56,7 +56,7 @@ function Passcode() {
 
                 {/* Message */}
                 {message && (
-                    <div className={`mb-4 -mt-9 text-sm font-bold ${message === config.successMessage ? 'text-green-500' : 'text-red-500'}`}>
+                    <div className={`mb-4 -mt-9 text-sm font-bold text-center ${message === config.successMessage ? 'text-green-500' : 'text-red-500'}`}>
                         {message}
                     </div>
                 )}
